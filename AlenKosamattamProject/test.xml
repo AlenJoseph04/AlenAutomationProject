@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Alen_Kosammatm_Test">
+
+  
+<test name="TC01">
+<classes>
+<class name="TestPage"/>
+</classes></test>
+
+
+
+</suite> 
